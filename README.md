@@ -111,3 +111,5 @@ dependencies {
     <string name="stop_capture">Stop Capture</string>
 </resources>
 ```
+### 界面如图所示：
+![布局界面](https://github.com/choujvzi/2_2CameraX/blob/master/screenshots/Screenshot%202023-04-30%20164629.jpg)
