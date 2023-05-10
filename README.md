@@ -392,3 +392,8 @@ class MainActivity : AppCompatActivity() {
     }
 }
 ```
+### 运行应用如图所示：
+![运行效果1](https://github.com/choujvzi/2_2CameraX/blob/master/screenshots/Screenshot%202023-04-30%20164715.jpg)
+![运行效果2](https://github.com/choujvzi/2_2CameraX/blob/master/screenshots/Screenshot%202023-04-30%20171356.jpg)
+![运行效果3](https://github.com/choujvzi/2_2CameraX/blob/master/screenshots/Screenshot%202023-04-30%20171826.jpg)
+![运行效果4](https://github.com/choujvzi/2_2CameraX/blob/master/screenshots/Screenshot%202023-04-30%20171849.jpg)
