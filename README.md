@@ -102,3 +102,12 @@ dependencies {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+### 更新strings.xml文件：
+```kotlin
+<resources>
+    <string name="app_name">CameraXApp</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+</resources>
+```
